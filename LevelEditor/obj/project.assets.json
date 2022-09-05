@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CustomGame\\LevelEditor\\LevelEditor.csproj",
+      "projectUniqueName": "D:\\Repos\\CustomGame\\LevelEditor\\LevelEditor.csproj",
       "projectName": "LevelEditor",
-      "projectPath": "D:\\CustomGame\\LevelEditor\\LevelEditor.csproj",
+      "projectPath": "D:\\Repos\\CustomGame\\LevelEditor\\LevelEditor.csproj",
       "packagesPath": "C:\\Users\\tjsac\\.nuget\\packages\\",
-      "outputPath": "D:\\CustomGame\\LevelEditor\\obj\\",
+      "outputPath": "D:\\Repos\\CustomGame\\LevelEditor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tjsac\\AppData\\Roaming\\NuGet\\NuGet.Config",
